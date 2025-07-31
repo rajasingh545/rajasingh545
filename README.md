@@ -4,7 +4,7 @@
 📧 [rajasingh.selvakumar@nodebriks.com](mailto:rajasingh.selvakumar@nodebriks.com) | 📱 +91 9940683837
 
 ### About Me
-Greetings! I'm Rajasingh, a dynamic Senior Software Developer with a five-year pulse in crafting cutting-edge mobile and web applications. I specialize in creating robust backend services and exposing RESTful APIs with the magic touch of Express.js. On the frontend, I'm a maestro with HTML, CSS, and JavaScript, and I wield the power of React and React Native for crafting delightful user experiences.
+Greetings! I'm Rajasingh, a dynamic Senior Software Developer with a seven-year pulse in crafting cutting-edge mobile and web applications. I specialize in creating robust backend services and exposing RESTful APIs with the magic touch of Express.js. On the frontend, I'm a maestro with HTML, CSS, and JavaScript, and I wield the power of React and React Native for crafting delightful user experiences.
 
 ### 🚀 What I Do
 - Designing and implementing scalable and secure RESTful APIs.
